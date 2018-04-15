@@ -191,7 +191,7 @@ $ mkdir /Users/jz0006/GoogleDrive/Hadoop/my_projects/02_max_temperature/input
 ```
 Copy two year’s data to the path above, 1901 and 1902.
 
-Now we are going to create folders in Hadoop file system (HDFS). Note that, the cd command in Linux/Unix system won't make any sense in Hadoop file system, since Hadoop file system is a virtual file system. You should always provide the full path to access a folder. 
+Now we are going to create folders in Hadoop file system (HDFS). Note that, the `cd` command in Linux/Unix system won't make any sense in Hadoop file system, since Hadoop file system is a virtual file system. You should always provide the full path to access a folder. 
 
 Lets check the root folder of your HDFS. In terminal, run:
 ```bash
