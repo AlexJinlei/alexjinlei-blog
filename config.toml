@@ -1,7 +1,7 @@
 baseURL = "https://alexjinlei.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "This is Flying Cat Alex's Blog"
+title = "Flying Cat Alex's Blog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
