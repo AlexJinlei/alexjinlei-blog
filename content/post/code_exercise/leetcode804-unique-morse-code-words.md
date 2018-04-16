@@ -46,6 +46,7 @@ words[i] will only consist of lowercase letters.
 ### Solution:
 Runtime: 40 ms. Beats 93.72% of python3 submissions.
 ```python
+# python3
 class Solution:
     def __init__(self):
         self.encoder = dict(zip([chr(i) for i in range(97, 97+27)],[".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."]))

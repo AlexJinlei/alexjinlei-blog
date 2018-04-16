@@ -32,6 +32,7 @@ The characters in `J` are distinct.
 ### Solution1: 
 Runtime: 44 ms. Beats 91.13% of python3 submissions.
 ```python
+# python3
 class Solution:
     def numJewelsInStones(self, J, S):
         """
@@ -55,6 +56,7 @@ counter.numJewelsInStones(J, S)
 ### Solution2: 
 Runtime: 40 ms. Beats 99.33% of python3 submissions.
 ```python
+# python3
 class Solution:
     def numJewelsInStones(self, J, S):
         """
@@ -73,6 +75,7 @@ counter.numJewelsInStones(J, S)
 ### Solution3: 
 Runtime: 44 ms. Beats 91.13% of python3 submissions.
 ```python
+# python3
 class Solution:
     def numJewelsInStones(self, J, S):
         """
