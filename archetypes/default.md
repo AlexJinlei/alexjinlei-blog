@@ -4,6 +4,9 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: false
 categories: ["uncategorized"]
+tags: []
+hiddenFromHomePage: false
+weight:
 ---
 
 
