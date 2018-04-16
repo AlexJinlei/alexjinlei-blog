@@ -9,6 +9,7 @@ categories: ["Technique"]
 
 ---
 
+{{% figure class="center" src="/img/hadoop-logo.png" alt="hadoop-logo" title="" %}}
 
 ## 1. Check if Java is installed.
 In terminal, input:
