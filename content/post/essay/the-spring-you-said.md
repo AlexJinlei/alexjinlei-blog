@@ -3,7 +3,8 @@ title: "或者所谓春天"
 date: 2013-04-30T19:02:00-05:00
 lastmod: 2018-04-15T17:02:00-04:00
 draft: false
-categories: ["Diary"]
+categories: ["Essay"]
+tags: ["Diary"]
 
 ---
 
