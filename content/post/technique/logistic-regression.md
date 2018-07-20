@@ -134,7 +134,7 @@ By adding a minus sign, we can get a cost function $-l(\theta)$ which can be min
 
 $$J(\theta) = -\frac{1}{m}l(\theta) = -\frac{1}{m}\sum_{i=1}^{m}[y^{(i)}log(\hat{y}^{(i)}) + (1-y^{(i)})log(1-\hat{y}^{(i)})] \tag{4.10}$$
 
-Since we've obtained the cost function, we are ready to let model learn parameters by minimizing this cost function. Because the cost function is derived from logistic function, the model that uses this cost function is called logistic model.
+Since we've obtained the cost function, we are ready to let the model learn parameters by minimizing this cost function. Because the cost function is derived from logistic function, the model that uses this cost function is called logistic model.
 
 (A loss function measures the discrepancy between the prediction $\hat{y}^{(i)}$ and the desired output $y^{(i)}$. In other words, the loss function computes the error for a single training example. The cost function is the average of the loss function of the entire training set.) -- From Andrew Ng's lecture notes.
 
